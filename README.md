@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianjane
+- 👋 Hi, I’m @briankiarie
 - 👀 I’m interested in react,python,html/css/js,mariadb,mongodb,everything decentralized
 - 🌱 I’m currently learning react,python
 - 💞️ I’m looking to collaborate on any imagination to reality project

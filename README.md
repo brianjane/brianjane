@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @briankiarie
-- 👀 I’m interested in react,python,html/css/js,mariadb,mongodb,everything decentralized
-- 🌱 I’m currently learning react,python
-- 💞️ I’m looking to collaborate on any imagination to reality project
-- 📫 How to reach me nairbeiraik@gmail.com
+- 👋 Hi, I’m @THE DREAMER
+- Leave a pull request to the readme
+- I'll find you
+- Hibernating for now
